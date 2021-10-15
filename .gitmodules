@@ -1,0 +1,9 @@
+[submodule "deps/libevent"]
+	path = deps/libevent
+	url = https://hub.fastgit.org/libevent/libevent
+[submodule "deps/googletest"]
+	path = deps/googletest
+	url = https://hub.fastgit.org/google/googletest
+[submodule "deps/jsoncpp"]
+	path = deps/jsoncpp
+	url = https://hub.fastgit.org/open-source-parsers/jsoncpp.git
